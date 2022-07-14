@@ -1,1 +1,1 @@
-# I use this repository for my diagrams repository
+# I use this repository as a holder for my diagrams
