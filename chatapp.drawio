@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-14T11:56:40.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="GpUMkHeULkhmbQ46HmDw" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-14T12:04:52.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TV-WugxZHwK_mHM7URKn" version="20.2.3" type="github">
   <diagram id="2a3D6kwvJbe1nJRh4zjP" name="Страница 1">
     <mxGraphModel dx="865" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,16 +35,64 @@
           <mxGeometry x="210" y="370" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9WMOxEt9ZVvCPJadMPms-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="120" height="290" as="geometry" />
+          <mxGeometry x="490" y="120" width="120" height="290" as="geometry" />
         </mxCell>
         <mxCell id="9WMOxEt9ZVvCPJadMPms-13" value="CHAT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9WMOxEt9ZVvCPJadMPms-14" value="_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="40" height="30" as="geometry" />
+          <mxGeometry x="530" y="160" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9WMOxEt9ZVvCPJadMPms-18" value="avatar?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-23" value="USERCHAT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-24" value="_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-26" value="companion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-27" value="owner" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="359" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-32" value="chatId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="120" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-37" value="MESSAGE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-38" value="_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-39" value="to" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-40" value="from" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="684" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-41" value="chatId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="450" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-43" value="CHATMEMBER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="460" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-44" value="_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-45" value="userId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WMOxEt9ZVvCPJadMPms-46" value="chatId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="519" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
