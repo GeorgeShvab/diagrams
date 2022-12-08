@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T14:02:41.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="Rlv0JZihl-HEi83am4uB" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T15:30:44.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="WV273CIzuaxMdWK8t9RM" type="github">
   <diagram id="XQ7LekQTsChMfwEgumaB" name="Страница 1">
-    <mxGraphModel dx="2557" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,6 +207,21 @@
         </mxCell>
         <mxCell id="9MW1Jq9SKEeFslXXsOik-70" value="Шарфи&amp;nbsp;scarves" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9MW1Jq9SKEeFslXXsOik-81" value="Home блоки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9MW1Jq9SKEeFslXXsOik-82" value="баннер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9MW1Jq9SKEeFslXXsOik-83" value="товари" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9MW1Jq9SKEeFslXXsOik-84" value="малі баннери 2 у ряду" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9MW1Jq9SKEeFslXXsOik-85" value="категорії в ряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
