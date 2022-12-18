@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T17:37:23.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HmkkC1Gka-3MVZQAvLHI" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T17:39:00.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="f6srAigdH_QzWRqqBtkj" version="20.7.4" type="github">
   <diagram id="An_6A8uYQxj1aYiGU6a9" name="Страница 1">
-    <mxGraphModel dx="2140" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,8 +403,20 @@
         <mxCell id="UPRrMj6-qopBgMtVMY6R-8" value="Updated At" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2080" y="640" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UPRrMj6-qopBgMtVMY6R-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UPRrMj6-qopBgMtVMY6R-15" target="UPRrMj6-qopBgMtVMY6R-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UPRrMj6-qopBgMtVMY6R-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UPRrMj6-qopBgMtVMY6R-15" target="UPRrMj6-qopBgMtVMY6R-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UPRrMj6-qopBgMtVMY6R-15" value="Link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2080" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UPRrMj6-qopBgMtVMY6R-23" value="Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UPRrMj6-qopBgMtVMY6R-24" value="Link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="840" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
