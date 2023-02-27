@@ -1,1 +1,1 @@
-# I use this repository as a holder for my diagrams
+# Here I save my diagrams for app.diagrams.net
