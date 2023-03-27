@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T15:20:58.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZJJh9Je-ffXX7F3h94Dr" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T15:21:11.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-cxupAcIXOqNqZGzxB0L" version="21.1.0" type="github">
   <diagram name="Сторінка-1" id="FGZ6uZ36H_6Fus4RmTAJ">
     <mxGraphModel dx="2327" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,19 +286,19 @@
         <mxCell id="Tp9BF6i-DsWpGKvdjkL9-112" value="О" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-120" y="640" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-113" value="К" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-80" y="680" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-114" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-114" value="В" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry y="680" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-115" value="І" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-40" y="680" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-117" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-117" value="А" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-160" y="680" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-118" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-118" value="Х" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-200" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tp9BF6i-DsWpGKvdjkL9-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
