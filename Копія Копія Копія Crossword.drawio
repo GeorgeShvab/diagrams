@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T15:58:12.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="AgFVz097fcwJeYulJwsR" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T16:00:05.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="empC5Yu05yuQqe4MeNI2" version="21.1.0" type="github">
   <diagram name="Сторінка-1" id="FGZ6uZ36H_6Fus4RmTAJ">
     <mxGraphModel dx="3452" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -361,25 +361,25 @@
         <mxCell id="Tp9BF6i-DsWpGKvdjkL9-140" value="А" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry y="920" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-141" value="К" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-141" value="Ь" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="360" y="960" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-142" value="Ь" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-142" value="С" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="320" y="960" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-143" value="Ц" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-143" value="В" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="280" y="960" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-144" value="Е" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-144" value="І" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="240" y="960" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-145" value="В" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-145" value="Г" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="200" y="960" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tp9BF6i-DsWpGKvdjkL9-146" value="Н" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="120" y="960" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-148" value="А" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Tp9BF6i-DsWpGKvdjkL9-148" value="К" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="400" y="960" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tp9BF6i-DsWpGKvdjkL9-149" value="З" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
