@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T10:10:46.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_maRFc4f3YAvhR0e2guv" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T11:31:45.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MZMtK9pkgWvcMMv3odRO" version="21.5.0" type="github">
   <diagram name="Сторінка-1" id="4nsPiJMsG7fjH1k0Aepe">
-    <mxGraphModel dx="2140" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,13 +74,16 @@
           <mxGeometry x="80" y="605" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kGTJ_FDY-_hj6c9UGdYr-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="898" width="280" height="117" as="geometry" />
+          <mxGeometry x="200" y="866.5" width="280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="kGTJ_FDY-_hj6c9UGdYr-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kGTJ_FDY-_hj6c9UGdYr-43">
-          <mxGeometry width="280" height="117" as="geometry" />
+          <mxGeometry width="280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="kGTJ_FDY-_hj6c9UGdYr-25" value="Авто додавання" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kGTJ_FDY-_hj6c9UGdYr-43">
           <mxGeometry x="80" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-157" value="Отримка при пошуку людей для доступу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kGTJ_FDY-_hj6c9UGdYr-43">
+          <mxGeometry x="80" y="102" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kGTJ_FDY-_hj6c9UGdYr-44" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-160" y="793" width="280" height="327" as="geometry" />
@@ -291,7 +294,7 @@
           <mxGeometry x="80" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kGTJ_FDY-_hj6c9UGdYr-145" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="2190" width="280" height="240" as="geometry" />
+          <mxGeometry x="200" y="2180" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="kGTJ_FDY-_hj6c9UGdYr-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kGTJ_FDY-_hj6c9UGdYr-145">
           <mxGeometry width="280" height="240" as="geometry" />
@@ -341,6 +344,42 @@
               <mxPoint x="-240" y="2800" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-154" value="Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=7;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-20" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-155" value="Pages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=7;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-20" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-182" value="Вхід в аккаунт. З емейлом та паролем або ж з третьою стороною (github, google). Перехід на сторінку реєстрації" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="80" width="390" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-183" value="login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-184" value="Реєстрація аккаунта. Два етапи з різними віконечками. На початку привітальне вікно де можна вибрати метод. Автентифікація з google and github.&amp;nbsp; Перший етап - ім&#39;я та ім&#39;я користувача. Другий етап - пароль та емейл.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="80" width="390" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-185" value="Реєстрація" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-186" value="Сторінка документа. Має бути доступна зміна документа, його назви, опису, достпупу. Видалення документа та перегляд історії змін." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="360" width="390" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-187" value="Документи" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-188" value="Зміна даних аккаунту (імені, емейлу, імені користувача, паролю). Зміна теми." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="360" width="390" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-189" value="Налаштування" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-190" value="Відновлення забутого пароля" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="640" width="390" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kGTJ_FDY-_hj6c9UGdYr-191" value="Вдіновлення пароля" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="660" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
