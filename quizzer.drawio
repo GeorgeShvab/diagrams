@@ -1,26 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T19:15:59.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jrm-qGVEOiS6JRLVepGR" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T11:23:31.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jYHS82wmHQpKNMYUcMvJ" version="22.1.16" type="github">
   <diagram name="Сторінка-1" id="UQyCPQ0WXRGii27kY1zW">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qK-i7sMC9WLvDjUvS6Ne-1" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qK-i7sMC9WLvDjUvS6Ne-1" value="User" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qK-i7sMC9WLvDjUvS6Ne-2" value="Participant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qK-i7sMC9WLvDjUvS6Ne-2" value="Participant" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qK-i7sMC9WLvDjUvS6Ne-3" value="Session" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qK-i7sMC9WLvDjUvS6Ne-3" value="Session" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qK-i7sMC9WLvDjUvS6Ne-4" value="Quiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qK-i7sMC9WLvDjUvS6Ne-4" value="Quiz" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qK-i7sMC9WLvDjUvS6Ne-5" value="Question" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qK-i7sMC9WLvDjUvS6Ne-5" value="Question" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qK-i7sMC9WLvDjUvS6Ne-6" value="Participant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-1" value="Owner creates session from (quiz is a template)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-2" value="Owner opens session" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-3" value="Participants start joining" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-4" value="Owner closes the session" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-5" value="Joining is no longer available" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-6" value="After ten seconds the quiz is started" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-7" value="The first question arrives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-8" value="During 60 seconds participants are giving answers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-9" value="The next question after 60 seconds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-11" value="The session finishes after the last question time is over" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-12" value="Results after ten seconds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-13" value="When new participant joins, message to all arrives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-14" value="New participant gets info about all other participants" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-15" value="When quiz starts, each participant get notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-16" value="With each question, participants get nots" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-17" value="With each answer, all participants get not that some user has answered" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-18" value="When quiz ends, each user get not" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-19" value="When results, each get note" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1dg4HhJAgTUTLTOxDZu-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
