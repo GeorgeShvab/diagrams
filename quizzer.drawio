@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T17:45:25.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lN4v6ZSgOzFpO6I1n9IN" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T17:52:01.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bWWaKRm-zH-7O8NPFZ8r" version="22.1.16" type="github">
   <diagram name="Сторінка-1" id="UQyCPQ0WXRGii27kY1zW">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,16 +92,16 @@
           <mxGeometry x="400" y="1000" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="hfJNiziGyQvd6QyjI-56-1" value="closed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="1080" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hfJNiziGyQvd6QyjI-56-2" value="opened" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="1080" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hfJNiziGyQvd6QyjI-56-3" value="ended" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="1080" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hfJNiziGyQvd6QyjI-56-4" value="running" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="hfJNiziGyQvd6QyjI-56-4" value="started" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hfJNiziGyQvd6QyjI-56-5" value="Info about session (title, users) or closed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="160" width="120" height="40" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="1360" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hfJNiziGyQvd6QyjI-56-7" value="status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="1080" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hfJNiziGyQvd6QyjI-56-8" value="waiting-for-participants" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="320" width="120" height="40" as="geometry" />
